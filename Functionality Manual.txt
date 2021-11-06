@@ -7,7 +7,7 @@
 ||                                                                                                                     ||
 ||                            Do NOT Change The Layout of The Package, This Will Break It!                             ||
 ||                                                                                                                     ||
-||                    Do NOT Rename The  "Launcher.exe"   and the   "Advanced Server Starter.exe"                      ||
+||                               Do NOT Rename The  "Advanced_RustServer_Launcher.exe"                                 ||
 ||                                                                                                                     ||
 ||                   Do NOT (Re)move The  "Launcher.exe"   or the   "Advanced Server Starter.exe"                      ||
 ||                                                                                                                     ||
@@ -17,7 +17,7 @@
 ||                                                                                                                     ||
 ||                                                                                                                     ||
 ||                                                                                                                     ||
-||                    ALL WIPES WILL BACK UP OLD INFO TO   \.AdvancedServerProcessing\OldServerData                    ||
+||               ALL WIPES WILL BACK UP OLD INFO TO   \.AdvancedServerProcessing\Important\OldServerData               ||
 ||                                                                                                                     ||
 ||                                                                                                                     ||
 ||=====================================================================================================================||
@@ -75,9 +75,7 @@
 ||                                                                                                                     ||
 ||                                                                                                                     ||
 ||                            The Automated Map Switch Is Designed To Be Set Up In The Menu.                           ||
-||                Every Time You Set It Up It Will Create a Text File Inside The "Important" Directory.                ||
-||                     It Is Possible To Adjust It Manual Keep In Mind That In Case Of Doing This,                     ||
-||                             There Has To Be ONE Empty Line Under The Date And Time!                                 ||
+||     Once You Set It Up, It Will compare the current time with the given time on every start of the server tool.     ||
 ||                                                                                                                     ||
 ||                   To Make The Automated Map Switch Activate Changing Out The Bat File, The Server                   ||
 ||           Needs To Close Down And Started Up Within a Minute To Match The Set Time With The Current One.            ||
