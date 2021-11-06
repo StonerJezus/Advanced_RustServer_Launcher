@@ -3,21 +3,17 @@
 ||=====================================================================================================================||
 ||                                                                                                                     ||
 ||                                                                                                                     ||
-||                                 Do NOT Change Any of The Code If You Dont Know How!                                 ||
-||                                                                                                                     ||
 ||                            Do NOT Change The Layout of The Package, This Will Break It!                             ||
 ||                                                                                                                     ||
-||                               Do NOT Rename The  "Advanced_RustServer_Launcher.exe"                                 ||
+||                                  Do NOT Rename The  "Advanced Server Starter.exe"                                   ||
 ||                                                                                                                     ||
-||                   Do NOT (Re)move The  "Launcher.exe"   or the   "Advanced Server Starter.exe"                      ||
-||                                                                                                                     ||
-||                ALWAYS Make Sure You Get This Package Directly From Github, LoneDesign or Codefling!                 ||
+||                     ALWAYS Make Sure You Get This Package Directly From Github or LoneDesign.                       ||
 ||                                                                                                                     ||
 ||           Do Not Remove Anything From The "Important" Directory, This Has a Chance of Breaking The Tool.            ||
 ||                                                                                                                     ||
 ||                                                                                                                     ||
 ||                                                                                                                     ||
-||               ALL WIPES WILL BACK UP OLD INFO TO   \.AdvancedServerProcessing\Important\OldServerData               ||
+||                    ALL WIPES WILL BACK UP OLD INFO TO   \.AdvancedServerProcessing\OldServerData                    ||
 ||                                                                                                                     ||
 ||                                                                                                                     ||
 ||=====================================================================================================================||
