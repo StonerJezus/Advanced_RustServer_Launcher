@@ -1,4 +1,4 @@
-# Advanced Server Starter
+# Advanced RustServer Launcher
 Rust Server Install and Startup Utility<br />
 <br />
 Main Download: https://github.com/StonerJezus/advanced-server-starter/archive/refs/heads/main.zip <br />
