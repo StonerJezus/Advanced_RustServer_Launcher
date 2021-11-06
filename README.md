@@ -102,7 +102,7 @@ Open Batch Download: Not Available. <br />
 ||                                                                                                  ||
 ||                         Do NOT Rename The  "Advanced Server Starter.exe"                         ||
 ||                                                                                                  ||
-||       ALWAYS Make Sure You Get This Package Directly From Github, LoneDesign or Codefling!       ||
+||             ALWAYS Make Sure You Get This Package Directly From Github or LoneDesign.            ||
 ||                                                                                                  ||
 ||  Do Not Remove Anything From The "Important" Directory, This Has a Chance of Breaking The Tool.  ||
 ||                                                                                                  ||
