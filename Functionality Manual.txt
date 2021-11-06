@@ -1,0 +1,129 @@
+||=====================================================================================================================||
+||                                  W A R N I N G     W A R N I N G     W A R N I N G                                  ||
+||=====================================================================================================================||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||                                 Do NOT Change Any of The Code If You Dont Know How!                                 ||
+||                                                                                                                     ||
+||                            Do NOT Change The Layout of The Package, This Will Break It!                             ||
+||                                                                                                                     ||
+||                    Do NOT Rename The  "Launcher.exe"   and the   "Advanced Server Starter.exe"                      ||
+||                                                                                                                     ||
+||                   Do NOT (Re)move The  "Launcher.exe"   or the   "Advanced Server Starter.exe"                      ||
+||                                                                                                                     ||
+||                ALWAYS Make Sure You Get This Package Directly From Github, LoneDesign or Codefling!                 ||
+||                                                                                                                     ||
+||           Do Not Remove Anything From The "Important" Directory, This Has a Chance of Breaking The Tool.            ||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||                    ALL WIPES WILL BACK UP OLD INFO TO   \.AdvancedServerProcessing\OldServerData                    ||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||=====================================================================================================================||
+||                                   1.    S T A R T   E X A M P L E   C R E A T O R                                   ||
+||=====================================================================================================================||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||                         This Will Activate Whenever One Of The Startup Batch Files Is Missing.                      ||
+||                         In Case You Already Created Them, You Can Re-do Them Through The Menu.                      ||
+||                                                                                                                     ||
+||                                        NEW : Optional Server Port-Forwarding                                        ||
+||                                                                                                                     ||
+||=====================================================================================================================||
+||                              2.    M A I N   B R A N C H   &   B E T A -  S T A G I N G                             ||
+||=====================================================================================================================||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||                                           - Server Setup for Main Branch                                            ||
+||                                           - Server Setup for Beta-Staging                                           ||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||=====================================================================================================================||
+||                                        3.    V A N I L L A  /  M O D D E D                                          ||
+||=====================================================================================================================||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||                    On Startup The Server Will Ask You If You Want Your Server Vanilla Or Modded.                    ||
+||                                                                                                                     ||
+||                               Choosing Vanilla Will Prevent The Server From Activating                              ||
+||                                        The Oxide & RustEdit DLL Check / Patch                                       ||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||=====================================================================================================================||
+||                             4.    O X I D E   &   R U S T E D I T . D L L   P A T C H E R                           ||
+||=====================================================================================================================||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||                                  Will Download And Patch Oxide & The RustEdit.dll                                   ||
+||                                               ( Both Optional )                                                     ||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||=====================================================================================================================||
+||                     5.    P R O C E D U R A L  M A P ,  H A P I S  M A P ,  C U S T O M   M A P                     ||
+||=====================================================================================================================||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||                                     - Server Setup for Procedural generated map                                     ||
+||                                        - Server Setup for Hapis Island map                                          ||
+||                                           - Server Setup for Custom map                                             ||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||=====================================================================================================================||
+||                                   6.    A U T O M A T E D    M A P    S W I T C H                                   ||
+||=====================================================================================================================||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||                            The Automated Map Switch Is Designed To Be Set Up In The Menu.                           ||
+||                Every Time You Set It Up It Will Create a Text File Inside The "Important" Directory.                ||
+||                     It Is Possible To Adjust It Manual Keep In Mind That In Case Of Doing This,                     ||
+||                             There Has To Be ONE Empty Line Under The Date And Time!                                 ||
+||                                                                                                                     ||
+||                   To Make The Automated Map Switch Activate Changing Out The Bat File, The Server                   ||
+||           Needs To Close Down And Started Up Within a Minute To Match The Set Time With The Current One.            ||
+||                                                                                                                     ||
+||                                   You Can Use Windows Task Scheduler For That.                                      ||
+||                                                                                                                     ||
+||                                         THIS FUNCTION IS NOT TESTED A LOT                                           ||
+||                           From My Own Testing It Seemed To Switch Out The Current Batch                             ||
+||                                And Also Seemed To Start With The New Settings!                                      ||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||=====================================================================================================================||
+||                                        7.    S E R V E R    M A P    W I P E                                        ||
+||=====================================================================================================================||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||                              This Will Remove EVERYTHING In The Server Maps Directory                               ||
+||                          Including Player Data, And Backs It Up To The Back-Up Directory.                           ||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||=====================================================================================================================||
+||                                        8.    C L I E N T    M A P    W I P E                                        ||
+||=====================================================================================================================||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||                            A Nice Tool For Map Developers That Host a Test Server Localy                            ||
+||                                                                                                                     ||
+||                            The System Will Ask You To Write The Letter Of The Hard Drive                            ||
+||                                         You Installed Your Rust Client On.                                          ||
+||                                                                                                                     ||
+||                              If You Have Your Rust Client Installed In a Sub-Directory                              ||
+||                                You Will Have To Write Everything That Go's In Front:                                ||
+||                                          \Steam\steamapps\common\Rust\maps                                          ||
+||                                                                                                                     ||
+||                             Once You Set It Up Correctly, It Will Remember The Location                             ||
+||                                To Change The Location, Go In The Menu Again. It Will                                ||
+||                                Remove The Old Setting Every Time You Set It Up Again.                               ||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||=====================================================================================================================||
+||                                     9.    C O M P L E T E    R E - I N S T A L L                                    ||
+||=====================================================================================================================||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||                              This Will Back-Up The Entire Oxide Folder, Server Config,                              ||
+||                          Maps And Player Data, And Sets Everything Else Back To First Use.                          ||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||=====================================================================================================================||

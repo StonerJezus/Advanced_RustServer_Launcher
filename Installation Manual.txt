@@ -1,0 +1,76 @@
+||=====================================================================================================================||
+||                                                                                                                     ||
+||                      BETA  BETA  BETA  BETA    BETA  BETA BETA  BETA    BETA  BETA  BETA  BETA                      ||
+||                                                                                                                     ||
+||=====================================================================================================================||
+||                                  W A R N I N G     W A R N I N G     W A R N I N G                                  ||
+||=====================================================================================================================||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||                                 Do NOT Change Any of The Code If You Dont Know How!                                 ||
+||                                                                                                                     ||
+||                            Do NOT Change The Layout of The Package, This Will Break It!                             ||
+||                                                                                                                     ||
+||                    Do NOT Rename The  "Launcher.exe"   and the   "Advanced Server Starter.exe"                      ||
+||                                                                                                                     ||
+||                   Do NOT (Re)move The  "Launcher.exe"   or the   "Advanced Server Starter.exe"                      ||
+||                                                                                                                     ||
+||                ALWAYS Make Sure You Get This Package Directly From Github, LoneDesign or Codefling!                 ||
+||                                                                                                                     ||
+||           Do Not Remove Anything From The "Important" Directory, This Has a Chance of Breaking The Tool.            ||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||                    ALL WIPES WILL BACK UP OLD INFO TO   \.AdvancedServerProcessing\OldServerData                    ||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||=====================================================================================================================||
+||                                      STEP 1: Installing your server and oxide                                       ||
+||=====================================================================================================================||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||       1: Place the RustServer folder including all it's content in the drive / folder you want your                 ||
+||          Rust Server to run from.                                                                                   ||
+||                                                                                                                     ||
+||       2: Open the RustServer folder after placing it on one of your drives, and click                               ||
+||          the "Launcher.exe"                                                                                         ||
+||                                                                                                                     ||
+||       3: Choose in the menu how you want your server and startexample to look like.                                 ||
+||          Take Your Time With This, and make sure you fill everything in correctly.                                  ||
+||          You can always adjust it manual after, but doing it right the first time                                   ||
+||          will give you the best experience                                                                          ||
+||                                                                                                                     ||
+||       4: After the Server is downloaded, the Console will close down so you can adjust your                         ||
+||          Possible Oxide Plugins, Admin Config, etc etc                                                              ||
+||          If you let the system port-forward you will not have to worry about anything other                         ||
+||          Port-Forwarding your modem.                                                                                ||
+||                                                                                                                     ||
+||      4a: In Case of a First Install You might have to start your server once so it creates oxide Directories.       || 
+||                                                                                                                     ||
+||                                                                                                                     ||
+||=====================================================================================================================||
+||                                            STEP 2: Starting Your Server!                                            ||
+||=====================================================================================================================||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||       Double click the "Launcher.exe" and it will Start your server,                                                ||
+||       and perform all other tricks explained above to make sure your server is always                               ||
+||       up to date with the settings you provided!                                                                    ||
+||       You can also start your server by clicking the "Start_Rust_Server.bat" , But                                  ||
+||       to make sure your server tool is up to date with the latest changes on Github:                                ||
+||                                                                                                                     ||
+||       Launching your server with the "Launcher.exe" is recommended!                                                 ||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||       Your Server should now start up with all the settings you provided!                                           ||
+||       If You did something wrong, you can always Re-Install the package in the menu                                 ||
+||       This will bring everything back to the state of Firt Use.                                                     ||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||=====================================================================================================================||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||                                      CHECK THE FUNCTIONALITY MANUAL FOR MORE !                                      ||
+||                                                                                                                     ||
+||                                                                                                                     ||
+||=====================================================================================================================||
