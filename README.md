@@ -98,13 +98,9 @@ Open Batch Download: https://github.com/StonerJezus/advanced-server-starter/arch
 ||==================================================================================================||
 ||                                                                                                  ||
 ||                                                                                                  ||
-||                        Do NOT Change Any of The Code If You Dont Know How!                       ||
-||                                                                                                  ||
 ||                   Do NOT Change The Layout of The Package, This Will Break It!                   ||
 ||                                                                                                  ||
-||           Do NOT Rename The  "Launcher.exe"   and the   "Advanced Server Starter.exe"            ||
-||                                                                                                  ||
-||          Do NOT (Re)move The  "Launcher.exe"   or the   "Advanced Server Starter.exe"            ||
+||                         Do NOT Rename The  "Advanced Server Starter.exe"                         ||
 ||                                                                                                  ||
 ||       ALWAYS Make Sure You Get This Package Directly From Github, LoneDesign or Codefling!       ||
 ||                                                                                                  ||
@@ -112,7 +108,7 @@ Open Batch Download: https://github.com/StonerJezus/advanced-server-starter/arch
 ||                                                                                                  ||
 ||                                                                                                  ||
 ||                                                                                                  ||
-||           ALL WIPES WILL BACK UP OLD INFO TO   \.AdvancedServerProcessing\OldServerData          ||
+||      ALL WIPES WILL BACK UP OLD INFO TO   \.AdvancedServerProcessing\Important\OldServerData     ||
 ||                                                                                                  ||
 ||                                                                                                  ||
 ||==================================================================================================||
@@ -170,9 +166,6 @@ Open Batch Download: https://github.com/StonerJezus/advanced-server-starter/arch
 ||                                                                                                  ||
 ||                                                                                                  ||
 ||                   The Automated Map Switch Is Designed To Be Set Up In The Menu.                 ||
-||       Every Time You Set It Up It Will Create a Text File Inside The "Important" Directory.      ||
-||            It Is Possible To Adjust It Manual Keep In Mind That In Case Of Doing This,           ||
-||                    There Has To Be ONE Empty Line Under The Date And Time!                       ||
 ||                                                                                                  ||
 ||          To Make The Automated Map Switch Activate Changing Out The Bat File, The Server         ||
 ||  Needs To Close Down And Started Up Within a Minute To Match The Set Time With The Current One.  ||
