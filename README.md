@@ -1,6 +1,7 @@
 # Advanced RustServer Launcher <br />
 
 **Main Download:** https://github.com/StonerJezus/Advanced_RustServer_Launcher/archive/refs/heads/master.zip <br />
+[Link to Google](https://www.google.com) <br />
 <details><summary>&nbsp;Installation: </summary><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Download the ZIP, open the zip and drag the "RustServers" folder where you want your server to be located.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click the "Advanced RustServer Launcher.exe" and have fun!.
