@@ -2,7 +2,7 @@
 Rust Server Install and Startup Utility<br />
 <br />
 ```diff
-- text in red
+-- text in red--
 + text in green
 ! text in orange
 # text in gray
