@@ -6,7 +6,7 @@ Rust Server Install and Startup Utility<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Download the ZIP, open the zip and drag the "RustServers" folder where you want your server to be located.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click the "Advanced RustServer Launcher.exe" and have fun!.
 <hr /></details>
-
+<br />
 <h1> Features </h2>
 <details>
 <summary>&nbsp;Start Example Creator </summary><br />
