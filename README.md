@@ -1,7 +1,7 @@
 # Advanced RustServer Launcher
 Rust Server Install and Startup Utility<br />
 <br />
-<font size="1">Main Download:</font> https://github.com/StonerJezus/Advanced_RustServer_Launcher/archive/refs/heads/master.zip <br />
+<font size="2">Main Download:</font> https://github.com/StonerJezus/Advanced_RustServer_Launcher/archive/refs/heads/master.zip <br />
 Open Batch Download: Not Available. <br />
 
 <h1> Features </h2>
