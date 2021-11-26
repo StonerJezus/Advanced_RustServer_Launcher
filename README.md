@@ -1,10 +1,12 @@
-# Advanced RustServer Launcher
-Rust Server Install and Startup Utility<br />
-<br />
-Main Download: https://github.com/StonerJezus/Advanced_RustServer_Launcher/archive/refs/heads/master.zip <br />
-Open Batch Download: Not Available. <br />
+# Advanced RustServer Launcher <br />
 
-<h1> Features </h2>
+**Main Download:** [Direct Download](https://github.com/StonerJezus/Advanced_RustServer_Launcher/archive/refs/heads/master.zip) <br />
+<details><summary>&nbsp;Installation: </summary><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Download the ZIP, open the zip and drag the "RustServers" folder where you want your server to be located.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click the "Advanced RustServer Launcher.exe" and have fun!.
+<hr /></details>
+<br />
+<h1> Features </h1>
 <details>
 <summary>&nbsp;Start Example Creator </summary><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This Will Activate Whenever One Of The Startup Batch Files Is Missing.<br />
