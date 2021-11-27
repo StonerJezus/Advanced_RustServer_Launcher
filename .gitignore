@@ -1,10 +1,2 @@
 # Ignore file named 'README.md'
-README.md# Compiled source #
-###################
-https://github.com/StonerJezus/Advanced_RustServer_Launcher/blob/master/.gitnore
-*.com
-*.class
-*.dll
-*.exe
-*.o
-*.so
+README.md
