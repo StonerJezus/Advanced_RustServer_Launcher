@@ -1,2 +1,10 @@
 # Ignore file named 'README.md'
-README.md
+README.md# Compiled source #
+###################
+.gitnore.txt
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
