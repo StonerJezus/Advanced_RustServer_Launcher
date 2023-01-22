@@ -1,2 +1,4 @@
-# Ignore file named 'README.md'
-README.md
+".git"
+".vs"
+".gitignore.txt"
+"README.md"
