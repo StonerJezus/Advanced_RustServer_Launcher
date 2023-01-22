@@ -1,4 +1,4 @@
-".git"
-".vs"
-".gitignore.txt"
-"README.md"
+*.git\
+*.vs\
+*.gitignore.txt\
+*.README.md\
