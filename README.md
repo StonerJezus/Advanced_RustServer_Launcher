@@ -1,5 +1,3 @@
-![alt text](https://cdn.discordapp.com/attachments/840249767215759370/1069805027247525928/ARSL_256x256.png)
-
 # Advanced RustServer Launcher <br />
 **Main Download:** [Direct Download](https://github.com/StonerJezus/Advanced_RustServer_Launcher/archive/refs/heads/master.zip) <br />
 
