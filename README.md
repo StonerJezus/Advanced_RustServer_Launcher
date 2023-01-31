@@ -1,8 +1,8 @@
+![alt text](https://cdn.discordapp.com/attachments/840249767215759370/1069805027247525928/ARSL_256x256.png)
+
 # Advanced RustServer Launcher <br />
-
-![alt text](https://cdn.discordapp.com/attachments/840249767215759370/1069805321419247676/ARSL_75x75.png)
-
 **Main Download:** [Direct Download](https://github.com/StonerJezus/Advanced_RustServer_Launcher/archive/refs/heads/master.zip) <br />
+
 <details><summary>&nbsp;Installation: </summary><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Download the ZIP, open the zip and drag the "RustServers" folder where you want your server to be located.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click the "Advanced RustServer Launcher.exe" and have fun!.
